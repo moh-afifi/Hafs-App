@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "498747551704",
+    "project_id": "hafs-da087",
+    "storage_bucket": "hafs-da087.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498747551704:android:0165d47f31bd284e94ccad",
+        "android_client_info": {
+          "package_name": "com.afifi.hafs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "498747551704-29ceqki6d1dicevhgdnvflfd0m542tnu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDl978wWU53PiB20WpzCFrthSwtLnqeNlc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "498747551704-29ceqki6d1dicevhgdnvflfd0m542tnu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
